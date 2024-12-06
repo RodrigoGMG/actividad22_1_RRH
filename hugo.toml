@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rodrigogmg.github.io/actividad22_1_RRH/'
 languageCode = 'es'
 title = 'Blog de Flores'
 theme = "ananke"
