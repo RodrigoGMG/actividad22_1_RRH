@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog de Flores</title>
-    <link>https://example.org/tags/</link>
+    <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/</link>
     <description>Recent content in Tags on Blog de Flores</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rodrigogmg.github.io/actividad22_1_RRH/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amor</title>
-      <link>https://example.org/tags/amor/</link>
+      <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/amor/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/amor/</guid>
+      <guid>https://rodrigogmg.github.io/actividad22_1_RRH/tags/amor/</guid>
       <description></description>
     </item>
     <item>
       <title>Calas</title>
-      <link>https://example.org/tags/calas/</link>
+      <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/calas/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/calas/</guid>
+      <guid>https://rodrigogmg.github.io/actividad22_1_RRH/tags/calas/</guid>
       <description></description>
     </item>
     <item>
       <title>Flores</title>
-      <link>https://example.org/tags/flores/</link>
+      <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/flores/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/flores/</guid>
+      <guid>https://rodrigogmg.github.io/actividad22_1_RRH/tags/flores/</guid>
       <description></description>
     </item>
     <item>
       <title>Naturaleza</title>
-      <link>https://example.org/tags/naturaleza/</link>
+      <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/naturaleza/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/naturaleza/</guid>
+      <guid>https://rodrigogmg.github.io/actividad22_1_RRH/tags/naturaleza/</guid>
       <description></description>
     </item>
     <item>
       <title>Rosas</title>
-      <link>https://example.org/tags/rosas/</link>
+      <link>https://rodrigogmg.github.io/actividad22_1_RRH/tags/rosas/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/rosas/</guid>
+      <guid>https://rodrigogmg.github.io/actividad22_1_RRH/tags/rosas/</guid>
       <description></description>
     </item>
   </channel>

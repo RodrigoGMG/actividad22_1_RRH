@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog de Flores</title>
-    <link>https://example.org/categories/</link>
+    <link>https://rodrigogmg.github.io/actividad22_1_RRH/categories/</link>
     <description>Recent content in Categories on Blog de Flores</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rodrigogmg.github.io/actividad22_1_RRH/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
