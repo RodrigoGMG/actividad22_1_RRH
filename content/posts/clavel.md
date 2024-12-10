@@ -1,8 +1,10 @@
-+++
-title = 'Clavel'
-date = 2024-12-06T15:34:19+01:00
-draft = true
-+++
+---
+title: 'Clavel'
+date: 2024-12-06
+description: "clavel Flor, con su singularidad y encanto, representa la conexión entre la naturaleza y la belleza atemporal."
+tags: ["flores", "naturaleza", "belleza"]
+---
+
 # Clavel: La Elegante Flor del Amor y la Admiración
 
 El **clavel**, también conocido por su nombre científico *Dianthus caryophyllus*, es una flor reconocida por su delicada belleza, versatilidad y profundo simbolismo. Originaria de la región mediterránea, su nombre significa "flor de los dioses", reflejando su aspecto divino y especial.
